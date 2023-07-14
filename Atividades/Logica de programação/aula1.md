@@ -33,4 +33,12 @@ Dica: O total de eleitores será a soma de todos os votos
 <br><br>
 
 <h3>
-6°: O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que o percentual do distribuidor seja de 28% e os impostos de 45%, escreva um algoritmo para ler o custo de fábrica de um carro, calcular e mostrar o custo final ao consumidor. 
+6°: O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que o percentual do distribuidor seja de 28% e os impostos de 45%, escreva um algoritmo para ler o custo de fábrica de um carro, calcular e mostrar o custo final ao consumidor.
+
+
+## Respostas: <br>
+https://github.com/infinity-repositorios/atividades/blob/main/Respostas/Logica%20de%20programação/aula1.md
+## Atividades lógica: <br>
+https://github.com/infinity-repositorios/atividades/blob/main/guias/Lógica%20da%20Programação.md
+## Menu:
+https://github.com/infinity-repositorios/atividades
