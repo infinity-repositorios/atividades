@@ -60,3 +60,8 @@ total = valorFabrica + (valorFabrica * 28 / 100) + (valorFabrica * 45 / 100)
 
 print(f'O valor do carro no final ficou num total de: R${total}')
 ~~~
+
+## Atividades lógica: <br>
+https://github.com/infinity-repositorios/atividades/blob/main/guias/Lógica%20da%20Programação.md
+## Menu:
+https://github.com/infinity-repositorios/atividades
