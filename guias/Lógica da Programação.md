@@ -13,3 +13,10 @@
 ## Respostas:  
 ### https://github.com/infinity-repositorios/atividades/blob/main/Respostas/Logica%20de%20programação/aula2.md
 <br>
+
+## Aula 3:
+### https://github.com/infinity-repositorios/atividades/blob/main/Atividades/Logica%20de%20programação/aula3.md
+
+## Respostas:  
+### https://github.com/infinity-repositorios/atividades/blob/main/Respostas/Logica%20de%20programação/aula3.md
+<br> 
