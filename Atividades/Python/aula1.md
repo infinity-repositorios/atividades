@@ -56,7 +56,7 @@ Para lado igual a 5:
 
 ## Respostas: <br>
 https://github.com/infinity-repositorios/atividades/blob/main/Respostas/Python/aula1.md
-## Atividades lógica: <br>
+## Atividades Python: <br>
 https://github.com/infinity-repositorios/atividades/blob/main/guias/Python.md
 ## Menu:
 https://github.com/infinity-repositorios/atividades
