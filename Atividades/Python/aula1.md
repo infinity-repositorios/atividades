@@ -45,7 +45,7 @@ Para lado igual a 5:
 
 °___°
 
-°°°°°x
+°°°°°
 <br><br>
 
 
