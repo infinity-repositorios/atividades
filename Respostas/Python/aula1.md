@@ -1,8 +1,11 @@
-# Atividades aula 1:
+# Atividades aula 1
 
-## Revisão:
+## Revisão
 
-## Atividades Python    : <br>
-https://github.com/infinity-repositorios/atividades/blob/main/guias/Python.md
-## Menu:
-https://github.com/infinity-repositorios/atividades
+## Atividades Python
+
+<https://github.com/infinity-repositorios/atividades/blob/main/guias/Python.md>
+
+## Menu
+
+<https://github.com/infinity-repositorios/atividades>
