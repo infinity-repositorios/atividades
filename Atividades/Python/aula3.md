@@ -1,6 +1,6 @@
 # Atividades aula 1
 
-## Listas e Tuplas
+## Dicionarios e sets
 
 ### 1°: Crie um dicionário com o nome e a idade de algumas pessoas. Em seguida, pergunte ao usuário qual nome ele deseja buscar e mostre a idade correspondente. Se o nome não estiver no dicionário, informe que a pessoa não foi encontrada
 
