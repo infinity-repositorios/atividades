@@ -1,6 +1,6 @@
-# Atividades aula 3
+# Atividades aula 4
 
-## Dicionarios e sets
+## Funções
 
 ### 1°: Faça uma função que recebe por parâmetro o tempo de duração de uma fábrica expressa em segundos e retorna também por parâmetro esse tempo em horas, minutos e segundos
 
@@ -13,6 +13,7 @@
 ### 5°: Faça uma função que receba um valor inteiro e positivo e calcula o seu fatorial
 
 ### 6°: Escreva uma função que recebe por parâmetro um valor inteiro e positivo N e retorna o valor de S:
+
 ### S = 1 + ½ + 1/3 + ¼ + 1/5 + 1/N
 
 ## Respostas
