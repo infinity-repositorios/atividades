@@ -6,7 +6,7 @@
 
 ### 2°: Crie um dicionário que funcionará como uma agenda telefonica, e que ficara adicionando numeros enquanto o usuario quiser
 
-### 3°: Crie um sistema de cadastramento de alunos, onde a matricula tem que ser unica, e que peça as seguintes informações: nome, idade e sexo.
+### 3°: Crie um sistema de cadastramento de alunos, onde a matricula tem que ser unica, e que peça as seguintes informações: nome, idade e sexo
 
 ### Desafio: crie um sistema integrado para cadastro de pacientes num hospital, onde terá 3 opções de ação
 
