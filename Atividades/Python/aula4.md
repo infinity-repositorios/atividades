@@ -2,7 +2,7 @@
 
 ## Funções
 
-### 1°: Faça uma função que recebe por parâmetro o tempo de duração de uma fábrica expressa em segundos e retorna também por parâmetro esse tempo em horas, minutos e segundos
+### 1°: Faça uma função que recebe por parâmetro o tempo de duração de uma fábrica expressa em segundos e retorna também esse tempo em horas, minutos e segundos
 
 ### 2°: Faça uma função que recebe a idade de uma pessoa em anos, meses e dias e retorna essa idade expressa em dias
 
